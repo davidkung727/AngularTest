@@ -1,0 +1,5 @@
+Angular學習進度
+
+https://angular.tw/start/start-data
+
+20230718: 快速上手->試一試->管理資料->建立購物車檢視(還沒做)
